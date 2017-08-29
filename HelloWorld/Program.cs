@@ -12,7 +12,8 @@ namespace HelloWorld
         {
             string navn = "";
 
-            Console.WriteLine("Indtast navn");
+            // Indtast navn
+           Console.WriteLine("Indtast navn");
             navn = Console.ReadLine();
             navn = navn.ToUpper();
 
