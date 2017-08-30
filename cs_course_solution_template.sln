@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{1606D2AE-47B2-445D-B0D4-94B096EBF941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifs", "methods\ifs.csproj", "{E29B9E53-7753-42CC-B986-D8839F209704}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "methods\Methods.csproj", "{E29B9E53-7753-42CC-B986-D8839F209704}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
