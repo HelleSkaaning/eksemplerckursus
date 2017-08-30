@@ -10,6 +10,7 @@ namespace methods
     {
         static void Main(string[] args)
         {
+            
             int sum=0;
             string outStr = "";
             for (int i = 1; i <= 10; i++)
